@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratiksha-Kanoja
-- 👀 I’m interested in Python programming language
-- 🌱 I’m currently learning Data scienc,Machine learning
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Data science,Machine learning
 - 💞️ I’m looking to collaborate on teaching
 - 📫 How to reach me pratiksha.21910137@viit.ac.in
 
